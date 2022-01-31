@@ -1,0 +1,27 @@
+.log{
+    text-align: center;
+    padding-left: 10rem;
+    padding-right: 10rem;
+    padding-bottom: 5rem;
+    padding-top: 3rem ;
+}
+.input{
+    display: inline;
+    width: 50px;
+}
+.boton{
+    width: fit-content;
+    height: fit-content;
+}
+.body{
+    text-align: center;
+    padding-top: 2rem;  
+    padding-bottom: 10rem;
+    width: 40%;
+}
+.botones{
+    align-items: center;
+    float:inline-end;
+    margin: 10px;
+    
+}
